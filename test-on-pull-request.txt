@@ -1,0 +1,1 @@
+我要测试on: [pull_request]是否只对create PR事件响应；换句话说，创建PR后再push commit不会再触发了。
